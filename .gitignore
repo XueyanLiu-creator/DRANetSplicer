@@ -1,5 +1,6 @@
 *.pyc
 *.npz
+!/data/encode_datasets/.gitkeep
 /results/*
 !/results/.gitkeep
 /models/trained_models/*.h5
