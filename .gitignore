@@ -1,6 +1,12 @@
 *.pyc
 *.npz
-results/*
-models/trained_models/*.h5
-src/DRANetSplicer.egg-info
-visualization/figure/*
+/results/*
+!/results
+/models/trained_models/*.h5
+!/models/trained_models
+!/models
+/src/DRANetSplicer.egg-info
+!/src
+/visualization/figure/*
+!/visualization/figure
+!/visualization
