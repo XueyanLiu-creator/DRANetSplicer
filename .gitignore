@@ -1,6 +1,6 @@
 *.pyc
 *.npz
-results/
+results/*
 models/trained_models/*.h5
 src/DRANetSplicer.egg-info
-visualization/figure/
+visualization/figure/*
